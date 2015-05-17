@@ -279,7 +279,7 @@
 297 Decreases opponent's Attack by 2 stages.
 298 Confuses all non-users.
 299 Has a higher chance of a critical hit. (12.5%) May burn opponent. (10%)
-300 During effect, power of Electric-type attacks is halved. (Effect is not cumulative.) Effect ends when user is switched. During effect, this attack fails for user, and non-users can use this attack.
+300 During effect, power of Electric-type attacks is reduced by 2/3. Effect ends when user is switched. During effect, this attack fails for the user, and non-users can use this attack.
 301 User uses this attack for five turns, during which user can't take any other action. A multiplier, X (which begins at 0), increases by 1 whenever this attack is successful. Effect ends and X is reset to 0 when user is replaced; when this attack is prevented from being used, misses, or becomes ineffective; when the attack is used for five turns; or when user falls asleep or becomes frozen. This attack's power is multiplied by 2 to the power of X. If user is asleep, this attack's effect lasts one turn.
 302 May cause opponent to flinch. (30%)
 303 User gains half of total HP. Fails if user's HP is full.
@@ -323,7 +323,7 @@
 343 If this attack is successful, user receives opponent's held item (even if opponent has zero HP) if user isn't holding any items, if that item is not a Mail, if user did not drop its held item this battle, and unless opponent has Multitype or is one of the player's Pokemon in an internal battle.
 344 Returns to user 1/3 of HP lost by opponent due to this attack (recoil). May paralyze opponent. (10%)
 345 Cannot be evaded.
-346 During effect, power of Fire-type attacks is halved. (Effect is not cumulative.) Effect ends when user is switched. During effect, this attack fails for user, and non-users can use this attack.
+346 During effect, power of Fire-type attacks is reduced by 2/3. Effect ends when user is switched. During effect, this attack fails for the user, and non-users can use this attack.
 347 Increases user's Special Attack and Special Defense by 1 stage.
 348 Has a higher chance of a critical hit. (12.5%)
 349 Increases user's Attack and Speed by 1 stage.
